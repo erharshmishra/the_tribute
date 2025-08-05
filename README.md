@@ -7,16 +7,15 @@ This is a simple tribute website dedicated to **Dr. A. P. J. Abdul Kalam**, the 
 
 
 ## 📁 Project Structure
-tribute-website/
-│
-├── index.html # Main HTML file
-├── style.css # Stylesheet for the website
-├── apj.jpg # Image of Dr. A.P.J. Abdul Kalam
-└── README.md # Project documentation
+tribute-website/ <br>
+│ <br>
+├── index.html # Main HTML file <br>
+├── style.css # Stylesheet for the website <br>
+├── apj.jpg # Image of Dr. A.P.J. Abdul Kalam <br>
+└── README.md # Project documentation <br>
 
 
 ## 📄 Features
-
 - Responsive HTML layout
 - Image of Dr. Kalam
 - Brief biography
@@ -24,16 +23,10 @@ tribute-website/
 - External link to Wikipedia for more information
 
 ## 🌐 Technologies Used
-
 - HTML5
 - CSS3
 
-## 📸 Screenshot
-
-> *(Add a screenshot of your webpage here, if available)*
-
 ## 📚 Content Summary
-
 The website includes:
 - A tribute to Dr. A. P. J. Abdul Kalam (1931–2015)
 - Overview of his life achievements, including:
@@ -50,6 +43,4 @@ The website includes:
 3. Open `index.html` in any web browser
 
 ## 👤 Author
-Your Name Here
-GitHub
-LinkedIn (optional)
+> Harsh Mishra
