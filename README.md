@@ -43,4 +43,4 @@ The website includes:
 3. Open `index.html` in any web browser
 
 ## 👤 Author
-> Harsh Mishra
+**Harsh Mishra**
