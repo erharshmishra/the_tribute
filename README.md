@@ -4,16 +4,15 @@
 This is a simple tribute website dedicated to **Dr. A. P. J. Abdul Kalam**, the former President of India and an esteemed aerospace scientist, widely known as the "Missile Man of India".
 
 ## 🖥️ Live Preview
-
+https://the-tribute.onrender.com
 
 ## 📁 Project Structure
 tribute-website/ <br>
 │ <br>
-├── index.html # Main HTML file <br>
-├── style.css # Stylesheet for the website <br>
-├── apj.jpg # Image of Dr. A.P.J. Abdul Kalam <br>
-└── README.md # Project documentation <br>
-
+├── index.html  #Main HTML file <br>
+├── style.css  #Stylesheet for the website <br>
+├── apj.jpg  #Image of Dr. A.P.J. Abdul Kalam <br>
+└── README.md  #Project documentation <br>
 
 ## 📄 Features
 - Responsive HTML layout
@@ -37,7 +36,6 @@ The website includes:
 - External link to [his Wikipedia page](https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam)
 
 ## 📦 How to Use
-
 1. Clone or download the repository
 2. Make sure `apj.jpg` is in the same directory as `index.html`
 3. Open `index.html` in any web browser
