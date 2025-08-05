@@ -49,12 +49,7 @@ The website includes:
 2. Make sure `apj.jpg` is in the same directory as `index.html`
 3. Open `index.html` in any web browser
 
-```bash
-git clone https://github.com/your-username/tribute-website.git
-cd tribute-website
-open index.html
-
-👤 Author
+## 👤 Author
 Your Name Here
 GitHub
 LinkedIn (optional)
